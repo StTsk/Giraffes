@@ -1,2 +1,2 @@
-# Giraffes
-A repo about giraffes. 🦒
+# Giraffes 🦒
+A repo about giraffes.
