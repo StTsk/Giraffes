@@ -1,3 +1,2 @@
 # Giraffes 🦒
-A repo about giraffes.
--graf974
+A repo about graf.
